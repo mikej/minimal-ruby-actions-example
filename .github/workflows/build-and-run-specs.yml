@@ -1,4 +1,4 @@
-name: Docker Image CI
+name: Run specs in Docker container
 
 on:
   push:
